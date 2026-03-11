@@ -25,5 +25,5 @@
 
 ```bash
 git clone https://github.com/bajiff/baji-bookshelf.git
-cd baji-commit
+cd baji-bookshelf
 ```
