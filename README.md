@@ -8,7 +8,7 @@
     </td>
     <td>
       <h3>Hehew, Saya Baji! 👋</h3>
-      <p>Welcome to baji-commit, di repo ini isinya kode auto commit hehew biar ngga perlu ketinggalan commit lagi. Mari terhubung!</p>
+      <p>Welcome to baji-bookshelf. Mari terhubung!</p>
       <a href="https://github.com/bajiff">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
       </a>
@@ -22,18 +22,9 @@
   </tr>
 </table>
 
-<p>Langkah-langkah biar auto-commit</p>
+<p>Langkah-langkah clone</p>
 
 ```bash
-git clone https://github.com/bajiff/baji-commit.git
-cd baji-commit
+git clone https://github.com/bajiff/baji-bookshelf.git
+cd baji-bookshelf
 ```
-
-<p>Perbaiki autocommit.yaml menjadi email dan username github Anda, tempatnya ada di .github/workflows/</p>
-
-```bash
-git config --local user.email "youremail@gmail.com"
-git config --local user.name "usernamegithub"
-```
-
-<p>Selamat Anda berhasil tinggal nunggu esok hari nanti auto commit sendiri sebanyak 20 commit</p>
