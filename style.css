@@ -4,6 +4,7 @@
   --primary-color-hover : #c1ef07;
   --background-color :#f8f9fa;
   --text-color :#212529;
+  --footer-color :#212529;
   --placeholder-color: #96b12b;
   --selection-color: #96b12b;
   --selection-background-color: #000000;
@@ -23,6 +24,7 @@
   --background-color: #3f3f3f;
   --text-color :#121212;
   --h1-text-color : #121212;
+  --footer-color: #ccff00;
   --placeholder-color: #96b12b;
   --selection-color: #000000;
   --selection-background-color: #ffffff;
@@ -366,4 +368,5 @@ footer {
   width: 80%;
   margin: 2.6% auto;
   text-align: center;
+  color: var(--footer-color);
 }
