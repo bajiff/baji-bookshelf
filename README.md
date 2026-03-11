@@ -2,7 +2,7 @@
   <tr>
     <td align="center">
       <a href="https://res.cloudinary.com/daqhvvcoh/image/upload/c_auto,w_500/Pribadi_bz89nj.png" target="_blank">
-        <img src="https://res.cloudinary.com/daqhvvcoh/image/upload/c_auto,w_500/Pribadi_bz89nj.png" width="100%" style="border-radius: 50%;" alt="Profile Picture"/>
+        <img src="https://res.cloudinary.com/daqhvvcoh/image/upload/c_auto,w_500/Pribadi_bz89nj.png" width="50%" style="border-radius: 50%;" alt="Profile Picture"/>
       </a>
     </td>
     <td>
@@ -21,7 +21,7 @@
   </tr>
 </table>
 
-<p>Langkah-langkah biar auto-commit</p>
+<p>Langkah-langkah clone</p>
 
 ```bash
 git clone https://github.com/bajiff/baji-bookshelf.git
