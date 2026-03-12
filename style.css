@@ -370,3 +370,21 @@ footer {
   text-align: center;
   color: var(--footer-color);
 }
+
+@media screen and (max-width: 768px) {
+  #input-section{
+    padding: 20px 30px;
+  }
+  #search-section{
+    padding: 20px 30px;
+  }
+  #bookshelf-read-section{
+    padding: 20px 30px;
+  }
+  #bookshelf-unread-section{
+    padding: 20px 30px;
+  }
+  .card-book {
+    padding: 20px;
+  }
+}
