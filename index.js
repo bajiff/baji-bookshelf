@@ -64,7 +64,7 @@ const renderBooks = (data = books) => {
 
     const toggleButton = document.createElement("button");
     toggleButton.classList.add("toggle-button")
-    toggleButton.innerText = "Toggle";
+    toggleButton.innerText = (book.isRead ? "Unread" : "Read");
     const lineBreakElement = document.createElement("br");
     
     deleteButton.addEventListener("click",() => {

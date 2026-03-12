@@ -2,11 +2,11 @@
 :root {
   --primary-color :#ccff00;
   --primary-color-hover : #c1ef07;
-  --background-color :#f8f9fa;
+  --background-color :#d9dbd1;
   --text-color :#212529;
   --footer-color :#212529;
   --placeholder-color: #96b12b;
-  --selection-color: #96b12b;
+  --selection-color: #dadeca;
   --selection-background-color: #000000;
   --border-color: #121212;
   --section-background-color: #f8f9fa;
@@ -296,7 +296,7 @@ button {
 }
 
 .card-book {
-  padding: 30px 50px;
+  padding: 30px;
   width: inherit;
   border-radius: 10px;
   border: 3px solid var(--border-color);
